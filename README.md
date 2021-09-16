@@ -1,2 +1,2 @@
 # to-do-list
-JS vainilla con localstorage 
+JS vanilla con localstorage 
